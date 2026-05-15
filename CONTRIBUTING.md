@@ -21,7 +21,7 @@ This list is open to community contributions.
 
 ## What we don't accept
 
-- Self-promotional links to commercial products with no open component.
+- Marketing or billboard links without a usable artifact (open-source library, public MCP server, documented skill, free tier, open spec, or similar).
 - Dead repos (last commit more than 18 months ago with no explanation).
 - Tools without an obvious connection to SRE or reliability.
 
